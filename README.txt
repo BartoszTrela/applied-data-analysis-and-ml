@@ -12,3 +12,7 @@ understand central optimization algorithms like stochastic gradient descent meth
 have knowledge about central deep learning methods for both supervised and unsupervised learning.
 have experience working on numerical projects.
 have knowledge of other machine learning algorithms, such as decision trees, support vector machines,  ensemble methods like random forests, bagging, and boosting.
+
+Group members:
+- samsonfb@uio.no
+- bartoszt@uio.no
