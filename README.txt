@@ -16,3 +16,6 @@ have knowledge of other machine learning algorithms, such as decision trees, sup
 Group members:
 - samsonfb@uio.no
 - bartoszt@uio.no
+
+Usage:
+- Install dependancies: pip install -r requirements.txt
